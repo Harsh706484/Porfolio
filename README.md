@@ -59,6 +59,6 @@ License:
 
 This project is open-source and free to use. You can modify it to suit your needs. For more information, refer to the MIT License.
 =======
-# Porfolio
+# Portfolio
 A responsive and modern portfolio website built with HTML, CSS and  JavaScript– deployed on Netlify.
 >>>>>>> 136d461b2e4e731eae3eb0b36767bc1e5b79051b
