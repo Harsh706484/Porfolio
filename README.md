@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Portfolio Project
 
 This is a personal portfolio project that you can download and use as a template to create your own portfolio. It is designed using HTML, CSS, and JavaScript to showcase your skills, projects, and achievements.
@@ -62,3 +63,7 @@ Credits:
 License:
 
 This project is open-source and free to use. You can modify it to suit your needs. For more information, refer to the MIT License.
+=======
+# Porfolio
+A responsive and modern portfolio website built with HTML, CSS and  JavaScript– deployed on Netlify.
+>>>>>>> 136d461b2e4e731eae3eb0b36767bc1e5b79051b
