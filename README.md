@@ -19,11 +19,6 @@ Requirements:
     Any modern browser (Chrome, Firefox, Safari, etc.)
     Basic knowledge of HTML, CSS, and JavaScript to customize the content.
 
-Installation:
-
-    Clone the repository: To get started, you can clone the repository using the following command:
-
-git clone https://github.com/simran-tekriwal/Portfolio-simrantekriwal.git
 
 Open the project folder: Navigate to the folder where the repository is cloned:
 
